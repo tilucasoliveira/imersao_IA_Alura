@@ -1,0 +1,54 @@
+Os dados abaixo em csv são de um histórico de navegação da internet.
+
+order,id,date,time,title,url,visitCount,typedCount,transition
+0,31,5/7/2024,13:54:44,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge,5,0,link
+1,31,5/7/2024,13:54:44,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge,5,0,link
+2,31,5/7/2024,13:54:18,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge,5,0,link
+3,31,5/7/2024,13:54:18,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge,5,0,link
+4,22,5/7/2024,13:54:13,Google Developer Profile | Google for Developers,https://developers.google.com/profile/u/108545590490530495853?hl=pt-br&utm_source=cloud.google.com,2,0,link
+5,35,5/7/2024,13:52:52,New repository,https://github.com/new,4,0,link
+6,35,5/7/2024,13:52:52,New repository,https://github.com/new,4,0,link
+7,35,5/7/2024,13:52:52,New repository,https://github.com/new,4,0,link
+8,35,5/7/2024,13:52:52,New repository,https://github.com/new,4,0,link
+9,34,5/7/2024,13:51:45,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge?pli=1,2,0,link
+10,31,5/7/2024,13:51:45,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge,5,0,link
+11,34,5/7/2024,13:51:45,Quick Chrome History Export,https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge?pli=1,2,0,link
+12,28,5/7/2024,13:51:10,GitHub,https://github.com/,10,0,link
+13,28,5/7/2024,13:51:10,GitHub,https://github.com/,10,0,link
+14,28,5/7/2024,13:51:10,GitHub,https://github.com/,10,0,link
+15,28,5/7/2024,13:51:10,GitHub,https://github.com/,10,0,form_submit
+16,30,5/7/2024,13:50:07,Imersões | Alura - Cursos online de tecnologia,https://cursos.alura.com.br/imersoes/aulas/aula-1-mergulhando-no-gemini-a-ia-do-google-c128,1,0,link
+17,29,5/7/2024,13:49:52,Sign in to GitHub · GitHub,https://github.com/login,4,0,link
+18,29,5/7/2024,13:49:52,Sign in to GitHub · GitHub,https://github.com/login,4,0,link
+19,29,5/7/2024,13:49:51,Sign in to GitHub · GitHub,https://github.com/login,4,0,link
+20,29,5/7/2024,13:49:51,Sign in to GitHub · GitHub,https://github.com/login,4,0,link
+21,28,5/7/2024,13:49:51,GitHub,https://github.com/,10,0,link
+22,28,5/7/2024,13:49:51,GitHub,https://github.com/,10,0,link
+23,28,5/7/2024,13:49:43,GitHub,https://github.com/,10,0,link
+24,28,5/7/2024,13:49:43,GitHub,https://github.com/,10,0,link
+25,28,5/7/2024,13:49:42,GitHub,https://github.com/,10,0,link
+26,28,5/7/2024,13:49:41,GitHub,https://github.com/,10,0,link
+27,27,5/7/2024,13:49:39,github - Pesquisa Google,https://www.google.com/search?gs_ssp=eJzj4tLP1TcoqiwoyE1XYDRgdGDwYkvPLMkoTQIAWC4HFA&q=github&rlz=1C1GCEU_pt-BRBR1101BR1101&oq=git&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyDwgAEEUYORiDARixAxiABDITCAEQLhiDARjHARixAxjRAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIGCAcQBRhA0gEIMjgyM2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8,2,0,link
+28,27,5/7/2024,13:49:39,github - Pesquisa Google,https://www.google.com/search?gs_ssp=eJzj4tLP1TcoqiwoyE1XYDRgdGDwYkvPLMkoTQIAWC4HFA&q=github&rlz=1C1GCEU_pt-BRBR1101BR1101&oq=git&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyDwgAEEUYORiDARixAxiABDITCAEQLhiDARjHARixAxjRAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIGCAcQBRhA0gEIMjgyM2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8,2,0,generated
+29,26,5/7/2024,13:48:35,Gemini,https://gemini.google.com/app/cf51d6c16cb63d7f,1,0,link
+30,25,5/7/2024,13:46:05,Gemini,https://gemini.google.com/app,1,0,link
+31,24,5/7/2024,13:45:47,‎Gemini: conversas que vão potencializar suas ideias,https://gemini.google.com/,2,1,link
+32,24,5/7/2024,13:45:25,‎Gemini: conversas que vão potencializar suas ideias,https://gemini.google.com/,2,1,typed
+33,12,5/7/2024,13:43:59,Google Cloud Innovators,https://cloud.google.com/innovators?hl=pt-br,4,1,link
+34,12,5/7/2024,13:43:59,Google Cloud Innovators,https://cloud.google.com/innovators?hl=pt-br,4,1,link
+35,22,5/7/2024,13:42:55,Google Developer Profile | Google for Developers,https://developers.google.com/profile/u/108545590490530495853?hl=pt-br&utm_source=cloud.google.com,2,0,link
+36,12,5/7/2024,13:40:40,Google Cloud Innovators,https://cloud.google.com/innovators?hl=pt-br,4,1,link
+37,17,5/7/2024,13:39:24,Fazer login nas Contas do Google,https://accounts.google.com/v3/signin/challenge/pwd?TL=ALv_Gf8YJgyuURtEAHZQ5ugrjMQB5c-YiImt0S_cRNhDMlbP5xOxeU91FLKtAyaZ&checkConnection=youtube%3A377&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fcloud.google.com%2F_d%2Freturn%3Fcontinue%3Dhttps%253A%252F%252Fcloud.google.com%252Finnovators%253Fhl%253Dpt-br&ddm=0&dsh=S-1442374650%3A1715099942608030&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AaSxoQz8U6r8Bsozry-HliX_gb16WeMMto48r6KT8yOKac8YmzgEq4e9caZ4c0nc44vXJBdhaCaHlA&pstMsg=1&theme=mn,1,0,link
+38,16,5/7/2024,13:39:03,Fazer login nas Contas do Google,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fcloud.google.com%2F_d%2Freturn%3Fcontinue%3Dhttps%253A%252F%252Fcloud.google.com%252Finnovators%253Fhl%253Dpt-br&ifkv=AaSxoQz8U6r8Bsozry-HliX_gb16WeMMto48r6KT8yOKac8YmzgEq4e9caZ4c0nc44vXJBdhaCaHlA&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1442374650%3A1715099942608030&theme=mn&ddm=0,2,0,link
+39,16,5/7/2024,13:39:02,Fazer login nas Contas do Google,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fcloud.google.com%2F_d%2Freturn%3Fcontinue%3Dhttps%253A%252F%252Fcloud.google.com%252Finnovators%253Fhl%253Dpt-br&ifkv=AaSxoQz8U6r8Bsozry-HliX_gb16WeMMto48r6KT8yOKac8YmzgEq4e9caZ4c0nc44vXJBdhaCaHlA&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1442374650%3A1715099942608030&theme=mn&ddm=0,2,0,link
+40,12,5/7/2024,13:38:17,Google Cloud Innovators,https://cloud.google.com/innovators?hl=pt-br,4,1,typed
+41,11,5/7/2024,13:36:22,Imersões | Alura - Cursos online de tecnologia,https://cursos.alura.com.br/imersoes/aulas/aula-02-melhores-tecnicas-em-engenharia-de-prompt-c129,1,0,link
+42,9,5/7/2024,13:35:51,Imersões | Alura - Cursos online de tecnologia,https://cursos.alura.com.br/imersoes/aulas/aula-02-melhores-tecnicas-em-engenharia-de-prompt-c129?utm_campaign=imersao-ia-google&utm_medium=email&_hsenc=p2ANqtz-8iw5UmoqFlCcxR8Wm-BtI8-fGo-DUaL1Lkx9qgVzPJ79GYmtcfKsQwQQVi7h79UWSH-ljKOIlVk6ukGLNGjok4LYOGMvYhgbkJwpdHCQ5A-uuvAxc&_hsmi=305875734&utm_content=aula-02&utm_source=hubspot,2,0,form_submit
+43,9,5/7/2024,13:34:37,Imersões | Alura - Cursos online de tecnologia,https://cursos.alura.com.br/imersoes/aulas/aula-02-melhores-tecnicas-em-engenharia-de-prompt-c129?utm_campaign=imersao-ia-google&utm_medium=email&_hsenc=p2ANqtz-8iw5UmoqFlCcxR8Wm-BtI8-fGo-DUaL1Lkx9qgVzPJ79GYmtcfKsQwQQVi7h79UWSH-ljKOIlVk6ukGLNGjok4LYOGMvYhgbkJwpdHCQ5A-uuvAxc&_hsmi=305875734&utm_content=aula-02&utm_source=hubspot,2,0,link
+44,10,5/7/2024,13:34:37,Login | Alura - Cursos online de tecnologia,https://cursos.alura.com.br/loginForm?urlAfterLogin=%5BaHR0cHM6Ly9jdXJzb3MuYWx1cmEuY29tLmJyL2ltZXJzb2VzL2F1bGFzL2F1bGEtMDItbWVsaG9yZXMtdGVjbmljYXMtZW0tZW5nZW5oYXJpYS1kZS1wcm9tcHQtYzEyOT91dG1fY2FtcGFpZ249aW1lcnNhby1pYS1nb29nbGUmdXRtX21lZGl1bT1lbWFpbCZfaHNlbmM9cDJBTnF0ei04aXc1VW1vcUZsQ2N4UjhXbS1CdEk4LWZHby1EVWFMMUxreDlxZ1Z6UEo3OUdZbXRjZktzUXdRUVZpN2g3OVVXU0gtbGpLT0lsVms2dWtHTE5Ham9rNExZT0dNdlloZ2JrSndwZEhDUTVBLXV1dkF4YyZfaHNtaT0zMDU4NzU3MzQmdXRtX2NvbnRlbnQ9YXVsYS0wMiZ1dG1fc291cmNlPWh1YnNwb3Q%5D,1,0,link
+45,6,5/7/2024,13:34:07,Entrar em sua conta,https://login.microsoftonline.com/2ecb0b8f-ca56-44ca-b275-1a9e5c11e7dd/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=2FD9140AF74C086AA1DCF758848260455642CEC379E9A81A%2D2AD1EA81CEAE1EAD860717F740ED783E0285E7250A30560925138FD90E1A4862&redirect%5Furi=https%3A%2F%2Ffastcard%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=486126a1%2Da0f3%2D5000%2D773d%2Dc39c98b7b5ae&sso_reload=true,1,0,link
+46,5,5/7/2024,13:34:07,Entrar em sua conta,https://login.microsoftonline.com/2ecb0b8f-ca56-44ca-b275-1a9e5c11e7dd/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=8D82CBF9103DC8A431548B53DC3806CDAAFC1E9312232ED4%2DE33E43373932460C8512225454318E598AA3BA909C1F00265508E467D75F27A5&redirect%5Furi=https%3A%2F%2Ffastcard%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=486126a1%2D70ec%2D5000%2D773d%2Dc4369ceba348&sso_reload=true,1,0,link
+
+--
+
+faça uma análise dos dados e me mostre de forma simples como o tempo foi utilizado na navegação dos sites, criando um resumo do que é mais acessado. Me mostre também a quantidade de uso e os tipos de sites que estão nos dados. 
