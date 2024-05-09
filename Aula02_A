@@ -1,0 +1,112 @@
+Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
+
+PROMPT
+Imagine que você é um profissional senior de Governança de TI 
+Temos um problema em nossa instituição:
+
+Problema: Uma auditoria de segurança recente revelou vulnerabilidades potenciais em nossa infraestrutura de TI, deixando-nos incertos sobre quais representam os riscos mais significativos e requerem atenção imediata.
+
+Vulnerabilidades: Software ultrapassado, Credenciais de segurança, Falta de backup eficiente, não possuir autenticação de dois fatores.
+
+
+_________
+
+Preciso que você faça as seguintes tarefas:
+
+* Definir o Objetivo: Priorizar as vulnerabilidades identificadas com base em seu impacto potencial na segurança da nossa organização.
+
+* Desconstruir o Problema: Analisar as características de cada vulnerabilidade, incluindo sua explorabilidade, severidade e impacto potencial em ativos críticos.
+
+* Raciocínio e Inferência: Utilizar feeds de inteligência de segurança disponíveis, bancos de dados de ameaças e conhecimento especializado para avaliar a probabilidade de cada vulnerabilidade ser explorada e as consequências potenciais.
+
+* Tomada de Decisão: Priorizar as vulnerabilidades com base em uma pontuação de avaliação de risco, focando em abordar aquelas com maior probabilidade de exploração e impacto mais severo.
+
+
+
+
+## Plano de Ação para Priorizar Vulnerabilidades de Segurança
+
+**Objetivo:**
+
+Priorizar as vulnerabilidades de segurança identificadas na auditoria recente, com base em seu impacto potencial na organização, para otimizar os recursos de remediação e minimizar os riscos.
+
+**Desconstruindo o Problema:**
+
+**1. Análise Detalhada das Vulnerabilidades:**
+
+* **Software Ultrapassado:**
+    * Identificar os softwares desatualizados, seus respectivos fabricantes e datas de fim de suporte.
+    * Avaliar a criticidade dos softwares para as operações da organização.
+    * Verificar a disponibilidade de atualizações de segurança ou alternativas equivalentes.
+
+* **Credenciais de Segurança:**
+    * Mapear os tipos de credenciais em questão (senhas, tokens, chaves privadas etc.).
+    * Analisar a força e os protocolos de autenticação utilizados.
+    * Verificar se há indícios de exposição ou comprometimento das credenciais.
+
+* **Falta de Backup Eficiente:**
+    * Identificar quais ativos críticos não possuem backups adequados.
+    * Avaliar a frequência e confiabilidade dos backups existentes.
+    * Verificar se os backups estão protegidos contra acessos não autorizados e desastres naturais.
+
+* **Ausência de Autenticação de Dois Fatores:**
+    * Identificar os sistemas e serviços que não oferecem autenticação de dois fatores (2FA).
+    * Avaliar a criticidade dos sistemas e o potencial impacto do acesso não autorizado.
+    * Verificar a viabilidade de implementar 2FA para os sistemas em questão.
+
+**2. Exploração, Severidade e Impacto:**
+
+* **Explorabilidade:**
+    * Consultar feeds de inteligência de segurança e bancos de dados de ameaças para verificar se as vulnerabilidades já estão sendo exploradas ativamente por cibercriminosos.
+    * Analisar a dificuldade técnica de exploração das vulnerabilidades.
+    * Considerar a existência de exploits públicos ou ferramentas automatizadas que facilitam a exploração.
+
+* **Severidade:**
+    * Avaliar o potencial impacto das vulnerabilidades caso sejam exploradas com sucesso.
+    * Considerar fatores como confidencialidade, integridade e disponibilidade dos dados e sistemas afetados.
+    * Analisar as possíveis consequências financeiras, legais e reputacionais para a organização.
+
+* **Impacto em Ativos Críticos:**
+    * Mapear as vulnerabilidades com base nos ativos críticos da organização (sistemas financeiros, banco de dados de clientes etc.).
+    * Priorizar as vulnerabilidades que afetam os ativos mais críticos e sensíveis.
+    * Considerar a interdependência entre os ativos e o potencial efeito cascata de um ataque bem-sucedido.
+
+**Raciocínio e Inferência:**
+
+* Coletar e analisar informações de diversas fontes:
+    * Feeds de inteligência de segurança: relatórios sobre ameaças emergentes, exploits e vulnerabilidades ativas.
+    * Bancos de dados de ameaças: listas de URLs maliciosas, IPs maliciosos e indicadores de comprometimento.
+    * Notícias e relatórios do setor: informações sobre ataques recentes e tendências de cibersegurança.
+    * Experiência interna da equipe de segurança: conhecimento sobre os sistemas e dados da organização, bem como os métodos e táticas comuns dos cibercriminosos.
+
+* Combinar as informações coletadas para:
+    * Avaliar a probabilidade de cada vulnerabilidade ser explorada no contexto da organização.
+    * Refinar a estimativa da severidade e do impacto potencial de cada vulnerabilidade.
+    * Identificar vulnerabilidades que representam um risco maior e exigem atenção imediata.
+
+**Tomada de Decisão:**
+
+* **Pontuação de Avaliação de Risco:**
+    * Desenvolver um sistema de pontuação que leve em consideração os fatores:
+        * Explorabilidade
+        * Severidade
+        * Impacto em ativos críticos
+    * Atribuir uma pontuação de risco a cada vulnerabilidade.
+
+* **Priorização:**
+    * Ordenar as vulnerabilidades de acordo com suas pontuações de risco, priorizando as que apresentam maior probabilidade e impacto em caso de exploração.
+    * Alocar recursos de remediação de forma estratégica, focando nas vulnerabilidades de maior risco.
+
+**Recomendações Adicionais:**
+
+* Implementar um programa de gerenciamento de vulnerabilidades contínuo para:
+    * Monitorar proativamente a infraestrutura de TI em busca de novas vulnerabilidades.
+    * Priorizar e remediar as vulnerabilidades de forma eficiente.
+    * Manter a organização protegida contra as últimas ameaças cibernéticas.
+
+* Investir em treinamento de conscientização em segurança da informação para
+
+
+
+
+
