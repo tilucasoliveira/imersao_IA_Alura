@@ -1,0 +1,108 @@
+
+
+
+
+
+
+ 
+O que são esses conjuntos de dados? ## Análise dos conjuntos de dados do ITI
+
+Os conjuntos de dados que você forneceu parecem ser provenientes do **Instituto Nacional de Tecnologia da Informação (ITI)**, órgão responsável por supervisionar a **Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil)**. A ICP-Brasil é uma cadeia hierárquica de confiança que viabiliza a emissão de certificados digitais para identificação virtual no Brasil.
+
+Cada conjunto de dados aborda um aspecto específico da ICP-Brasil:
+
+* **Sistemas e Equipamentos de Certificado Digital da ICP-Brasil homologados:** Lista os sistemas e equipamentos aprovados pelo ITI para uso na ICP-Brasil, garantindo sua interoperabilidade e segurança.
+* **Auditorias realizadas ITI - ICP - Brasil:** Informações sobre as auditorias realizadas anualmente em prestadores de serviço de certificação digital para manter seu credenciamento.
+* **Entidades ICP-Brasil:** Lista das empresas autorizadas a emitir certificados digitais na ICP-Brasil.
+* **Fiscalização:** Dados sobre as fiscalizações realizadas pelo ITI para garantir a conformidade dos procedimentos de emissão de certificados digitais.
+* **OID:** Relação dos identificadores de objetos (OIDs) utilizados na ICP-Brasil.
+* **CAR:** Lista dos Agentes de Registro (ARs) habilitados a atuarem na ICP-Brasil, incluindo CPF e nome. 
+
+## Importância dos dados
+
+Esses conjuntos de dados são importantes para **transparência e controle** da ICP-Brasil. Eles permitem que o público:
+
+* **Verifique a conformidade** de sistemas, equipamentos e prestadores de serviço.
+* **Entenda o processo de auditoria e fiscalização.**
+* **Conheça as entidades autorizadas** a emitir certificados digitais. 
+* **Acesse informações sobre os ARs habilitados.**
+
+## Possíveis usos
+
+Os dados podem ser utilizados por:
+
+* **Desenvolvedores de sistemas e equipamentos** para garantir a compatibilidade com a ICP-Brasil.
+* **Auditores e fiscais** para avaliar a conformidade dos prestadores de serviço.
+* **Usuários de certificados digitais** para verificar a autenticidade dos emissores.
+* **Pesquisadores e analistas** para estudar o ecossistema da ICP-Brasil. 
+
+
+Quais são as tabelas que existem nesse arquivo?
+
+## Análise das Tabelas no Arquivo CSV
+
+O arquivo CSV que você forneceu parece conter uma única tabela com informações sobre diversos aspectos da ICP-Brasil. A tabela possui as seguintes colunas:
+
+* **Organização:** Indica a entidade responsável pelos dados, neste caso, o Instituto Nacional de Tecnologia da Informação (ITI).
+* **Nome:** O nome do conjunto de dados específico, descrevendo seu conteúdo.
+* **Descrição:** Uma explicação detalhada sobre o conjunto de dados e sua finalidade. 
+* **Tags:** Palavras-chave que classificam o conjunto de dados.
+* **Quantidade Recursos:** O número de recursos disponíveis no conjunto de dados (provavelmente se refere a arquivos ou entradas individuais). 
+* **Quantidade Reusos:** Quantas vezes o conjunto de dados foi reutilizado. 
+* **Quantidade Downloads:** O número de vezes que o conjunto de dados foi baixado. 
+* **Quantidade Seguidores:** Quantas pessoas estão seguindo o conjunto de dados para receber atualizações. 
+
+Portanto, ao invés de múltiplas tabelas, o arquivo apresenta uma tabela única que agrega informações sobre diferentes conjuntos de dados relacionados à ICP-Brasil. 
+
+Quais são os tipos de dados presentes nas colunas? ## Análise dos Tipos de Dados nas Colunas
+
+A tabela presente no arquivo CSV possui colunas com diferentes tipos de dados:
+
+* **Organização:** Dado do tipo **texto/string**, pois contém o nome da instituição responsável (ITI).
+* **Nome:** Dado do tipo **texto/string**, representando o nome descritivo do conjunto de dados.
+* **Descrição:** Dado do tipo **texto/string**, com uma explicação textual sobre o conjunto de dados.
+* **Tags:** Dado do tipo **texto/string**, contendo palavras-chave que classificam o conjunto de dados. Poderia ser considerado um tipo de dado categórico, caso houvesse um conjunto limitado e pré-definido de tags. 
+* **Quantidade Recursos:** Dado do tipo **numérico inteiro**, representando a contagem de recursos no conjunto de dados. 
+* **Quantidade Reusos:** Dado do tipo **numérico inteiro**, indicando a quantidade de vezes que o conjunto de dados foi reutilizado. 
+* **Quantidade Downloads:** Dado do tipo **numérico inteiro**, representando o número de downloads do conjunto de dados.
+* **Quantidade Seguidores:** Dado do tipo **numérico inteiro**, indicando a quantidade de pessoas seguindo o conjunto de dados. 
+
+SELECT DISTINCT(Organização) 
+
+## Consultando Organizações Distintas
+
+A consulta SQL que você forneceu, `SELECT DISTINCT(Organização)`, tem como objetivo retornar uma lista única das organizações presentes na coluna "Organização" da tabela. 
+
+Considerando o contexto dos dados do ITI que analisamos anteriormente, o resultado dessa consulta seria:
+﻿
+Organização
+-----------
+Instituto Nacional de Tecnologia da Informação - ITI
+Use code with caution.
+﻿
+`
+
+Isso ocorre porque, com base nos dados fornecidos, apenas o ITI aparece como organização responsável pelos conjuntos de dados listados. Se houvessem outras organizações envolvidas, elas também seriam listadas no resultado da consulta. 
+
+
+SELECT DISTINCT(Nome) 
+
+## Consultando Nomes Distintos
+
+A consulta SQL `SELECT DISTINCT(Nome)` tem como objetivo retornar uma lista única dos nomes dos conjuntos de dados presentes na coluna "Nome" da tabela. 
+
+Com base nos dados do ITI que analisamos, o resultado dessa consulta seria:
+﻿
+Nome
+--------------------------------------------------
+Sistemas e Equipamentos de Certificado Digital da ICP-Brasil homologados (homologação)
+Auditorias realizadas ITI - ICP - Brasil
+Entidades ICP-Brasil
+Fiscalização
+OID
+CAR
+Use code with caution.
+﻿
+``
+
+Isso significa que existem seis conjuntos de dados distintos listados na tabela, cada um com seu nome descritivo. 
